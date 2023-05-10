@@ -1,0 +1,3 @@
+/home/zerotwo/AP1400-2-HW2/build/CMakeFiles/main.dir
+/home/zerotwo/AP1400-2-HW2/build/CMakeFiles/edit_cache.dir
+/home/zerotwo/AP1400-2-HW2/build/CMakeFiles/rebuild_cache.dir
